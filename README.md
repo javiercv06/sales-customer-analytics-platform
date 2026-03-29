@@ -96,7 +96,7 @@ Margen = DIVIDE(SUM('sales_data_processed'[Profit]), SUM('sales_data_processed'[
 
 
 ![dashboard-sales-customer](https://github.com/user-attachments/assets/cce577bf-84cf-4ad2-bbc9-d4fb74c361c9)
-![dashboard-sales-customer](https://github.com/user-attachments/assets/e61d81b4-dabf-4b67-a370-7316f9d8b40a)
+![azure-contenedores](https://github.com/user-attachments/assets/a93c454f-6684-4b95-9883-27d6ae027d1c)
 ![azure-data-factory](https://github.com/user-attachments/assets/6ee4d65d-5fe0-445f-a103-2ccd41e96828)
 
 
